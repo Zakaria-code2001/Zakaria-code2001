@@ -4,10 +4,10 @@
 
 <!-- Badges: Stats, Followers, and other details -->
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Zakaria-code2001">
     <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/zakaria-mohammadi-473761244">
     <img src="https://img.shields.io/badge/LinkedIn-Zakaria-blue?style=flat&logo=linkedin" />
   </a>
 </p>
@@ -19,8 +19,8 @@
 - 🎓 Graduate of the ALX Software Engineering Program powered by Holberton  
 - 🔭 I’m currently working on: **YouTube Clone Project**  
 - 🌱 I’m learning: **Java Spring Boot** and **System Design**  
-- 💬 Ask me about **Django, Flask, Microservices, or Cloud Deployment**  
-- 📫 How to reach me: [Email me](mailto:zakaria@example.com)  
+- 💬 Ask me about **Django, Flask**  
+- 📫 How to reach me: [Email me](mailto:zakariamohammadi91@gmail.com)  
 
 ---
 
