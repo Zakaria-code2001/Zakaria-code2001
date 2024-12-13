@@ -1,26 +1,28 @@
 <!-- Header with your name and title -->
 <h1 align="center">👋 Hi, I'm Zakaria Mohammadi!</h1>
-<h3 align="center">A Full Stack Software Engineer specializing in Python, JavaScript, and C</h3>
+<h3 align="center">A Full Stack Software Engineer specializing in Python, JavaScript, TypeScript, C, C#, and Java</h3>
 
 <!-- Badges: Stats, Followers, and other details -->
 <p align="center">
-  <a href="https://github.com/Zakaria-code2001">
+  <a href="https://github.com/your-username">
     <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://linkedin.com/in/zakaria-mohammadi-473761244">
+  <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-Zakaria-blue?style=flat&logo=linkedin" />
   </a>
 </p>
+
+---
 
 <!-- About Section -->
 ## 📝 About Me
 
 - 🚀 Full Stack Developer | Backend Specialist  
 - 🎓 Graduate of the ALX Software Engineering Program powered by Holberton  
-- 🔭 I’m currently working on: **YouTube Clone Project**  
-- 🌱 I’m learning: **Java Spring Boot** and **System Design**  
-- 💬 Ask me about **Django, Flask**  
-- 📫 How to reach me: [Email me](mailto:zakariamohammadi91@gmail.com)  
+- 🔭 I’m currently working on: **BionicTrainer** 
+- 🌱 I’m learning: **AI-driven solutions for web applications**  
+- 💬 Ask me about **Django, Flask, React, and building scalable systems**  
+- 📫 How to reach me: [Email me](mailto:zakaria@example.com)  
 
 ---
 
@@ -29,34 +31,36 @@
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 ### **Frameworks & Tools**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 
 ### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🎥 [YouTube Clone Project](https://github.com/your-repo-link)
-- **Tech Stack**: TypeScript, Next.js, Express.js, Google Cloud Storage, Firebase  
-- **Description**: A scalable video-sharing platform featuring authentication, video uploads, and cloud-based processing.
+### 📚 [YouDemy](https://github.com/your-repo-link)
+- **Tech Stack**: Django, React, Vercel, Docker  
+- **Description**: An e-learning platform for uploading and managing educational content with seamless user authentication and cloud deployment.
 
 <p align="center">
-  <img src="https://your-demo-image.gif" alt="YouTube Clone Demo" />
+  <img src="https://your-demo-image.gif" alt="YouDemy Demo" />
 </p>
-
----
-
-### 🏠 [Airbnb Clone](https://github.com/your-repo-link)
-- **Tech Stack**: Python, Flask, JavaScript, HTML/CSS  
-- **Description**: A fully functional property booking system with user management, property listings, and reservation functionality.
 
 ---
 
