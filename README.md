@@ -17,7 +17,7 @@
 ## 📝 About Me
 
 - 🚀 **Full Stack Developer** | **Backend Specialist**
-- 🎓 **Graduate** of the ALX Software Engineering Program powered by Holberton
+- 🎓 **Graduate** of the ALX-Holberton Software Engineering Program 
 - 📚 Completed virtual internships with **Ford** and **Hewlett Packard**
 - 🔭 I’m currently working on: **BionicTrainer** *(Coming Soon)*
 - 🌱 I’m learning: **AI-driven solutions for web applications**
@@ -85,11 +85,6 @@ Teamwork, Problem-solving, Adaptability
   - Implemented a RESTful backend with Flask for CRUD operations on playlists and videos.
   - Utilized React for a smooth and interactive frontend experience.
   - Ensured API reliability through comprehensive unit testing.
-
-<p align="center">
-  <img src="https://your-demo-image.gif" alt="YouDemy Demo" />
-</p>
-
 ---
 
 ## 📚 Education
