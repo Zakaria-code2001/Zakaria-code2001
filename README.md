@@ -17,7 +17,7 @@
 ## 📝 About Me
 
 - 🚀 **Full Stack Developer** | **Backend Specialist**
-- 🎓 **Graduate** of the ALX-Holberton Software Engineering Program 
+- 🎓 **Graduate** of the ALX-Holberton Software Engineering Program
 - 📚 Completed virtual internships with **Ford** and **Hewlett Packard**
 - 🔭 I’m currently working on: **BionicTrainer** *(Coming Soon)*
 - 🌱 I’m learning: **AI-driven solutions for web applications**
@@ -28,7 +28,7 @@
 
 ## 🛠️ Tech Stack
 
-### **Languages**
+### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -36,7 +36,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
-### **Frameworks & Tools**
+### **Frameworks & Libraries**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -44,35 +44,30 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
 ### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white)
-
----
-
-## 🔧 Skills
-
-### **Programming Languages**
-Python, JavaScript, TypeScript, SQL, C, C#, Java
-
-### **Libraries & Frameworks**
-Flask, Django, Node.js, React, .NET, Spring
-
-### **Databases**
-MySQL, NoSQL, MongoDB, Redis, SQLite
-
-### **Tools & Platforms**
-Docker, Git, Postman, Docker Compose, Vercel, Replit
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker-compose&logoColor=white)
 
 ### **Soft Skills**
-Teamwork, Problem-solving, Adaptability
+![Teamwork](https://img.shields.io/badge/Teamwork-4CAF50?style=flat&logo=teamviewer&logoColor=white)
+![Problem-solving](https://img.shields.io/badge/Problem--solving-2196F3?style=flat&logo=digg&logoColor=white)
+![Adaptability](https://img.shields.io/badge/Adaptability-FF9800?style=flat&logo=adobe&logoColor=white)
 
 ### **Languages**
-- **Italian** (Native)
-- **Arabic** (Native)
-- **English** (Fluent)
-- **French** (Fluent)
+![Italian](https://img.shields.io/badge/Italian-000000?style=flat&logo=google-translate&logoColor=white)
+![Arabic](https://img.shields.io/badge/Arabic-008000?style=flat&logo=google-translate&logoColor=white)
+![English](https://img.shields.io/badge/English-0000FF?style=flat&logo=google-translate&logoColor=white)
+![French](https://img.shields.io/badge/French-FF0000?style=flat&logo=google-translate&logoColor=white)
 
 ---
 
@@ -85,6 +80,11 @@ Teamwork, Problem-solving, Adaptability
   - Implemented a RESTful backend with Flask for CRUD operations on playlists and videos.
   - Utilized React for a smooth and interactive frontend experience.
   - Ensured API reliability through comprehensive unit testing.
+
+<p align="center">
+  <img src="https://your-demo-image.gif" alt="YouDemy Demo" width="600"/>
+</p>
+
 ---
 
 ## 📚 Education
