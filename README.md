@@ -81,10 +81,6 @@
   - Utilized React for a smooth and interactive frontend experience.
   - Ensured API reliability through comprehensive unit testing.
 
-<p align="center">
-  <img src="https://your-demo-image.gif" alt="YouDemy Demo" width="600"/>
-</p>
-
 ---
 
 ## 🏅 Certifications
