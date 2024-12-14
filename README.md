@@ -87,21 +87,6 @@
 
 ---
 
-## 📚 Education
-
-- **Holberton School** | Software Engineering
-  - *May 2023 - October 2024 | Remote*
-  - **Courses**:
-    - Introduction to Linux and Development Tools
-    - C Programming and Data Structures
-    - Python Programming and Web Development
-    - Algorithms and Computational Complexity
-    - Computer Systems and Networks
-    - Databases and Data Management Systems
-    - DevOps and Software Engineering Methodologies
-
----
-
 ## 🏅 Certifications
 
 - [Harvard Online - CS50x](#)
