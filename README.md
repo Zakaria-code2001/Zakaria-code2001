@@ -14,15 +14,15 @@
 
 ---
 
-<!-- About Section -->
 ## 📝 About Me
 
-- 🚀 Full Stack Developer | Backend Specialist
-- 🎓 Graduate of the ALX Software Engineering Program powered by Holberton
-- 🔭 I’m currently working on: **BionicTrainer**
+- 🚀 **Full Stack Developer** | **Backend Specialist**
+- 🎓 **Graduate** of the ALX Software Engineering Program powered by Holberton
+- 📚 Completed virtual internships with **Ford** and **Hewlett Packard**
+- 🔭 I’m currently working on: **BionicTrainer** *(Coming Soon)*
 - 🌱 I’m learning: **AI-driven solutions for web applications**
 - 💬 Ask me about **Django, Flask, React, and building scalable systems**
-- 📫 How to reach me: [Email](mailto:zakaria@example.com)
+- 📫 How to reach me: [zakariamohammadi91@gmail.com](mailto:zakariamohammadi91@gmail.com)
 
 ---
 
@@ -37,12 +37,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 ### **Frameworks & Tools**
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 
 ### **DevOps & Cloud**
@@ -52,15 +51,69 @@
 
 ---
 
+## 🔧 Skills
+
+### **Programming Languages**
+Python, JavaScript, TypeScript, SQL, C, C#, Java
+
+### **Libraries & Frameworks**
+Flask, Django, Node.js, React, .NET, Spring
+
+### **Databases**
+MySQL, NoSQL, MongoDB, Redis, SQLite
+
+### **Tools & Platforms**
+Docker, Git, Postman, Docker Compose, Vercel, Replit
+
+### **Soft Skills**
+Teamwork, Problem-solving, Adaptability
+
+### **Languages**
+- **Italian** (Native)
+- **Arabic** (Native)
+- **English** (Fluent)
+- **French** (Fluent)
+
+---
+
 ## 🚀 Featured Project
 
-### 📚 [YouDemy](https://github.com/Zakaria-code2001/YouDemy)
-- **Tech Stack**: Django, React, Vercel, Docker  
-- **Description**: An e-learning platform for uploading and managing educational content with seamless user authentication and cloud deployment.
+### 📚 [YouDemy | Playlist Video Manager](https://github.com/Zakaria-code2001/YouDemy)
+- **Tech Stack**: Python, Flask, React, Flask-RESTful, SQLAlchemy, SQLite, Unit Testing
+- **Description**: Designed and developed a web application for managing video playlists with a user-friendly interface.
+- **Highlights**:
+  - Implemented a RESTful backend with Flask for CRUD operations on playlists and videos.
+  - Utilized React for a smooth and interactive frontend experience.
+  - Ensured API reliability through comprehensive unit testing.
 
 <p align="center">
   <img src="https://your-demo-image.gif" alt="YouDemy Demo" />
 </p>
+
+---
+
+## 📚 Education
+
+- **Holberton School** | Software Engineering
+  - *May 2023 - October 2024 | Remote*
+  - **Courses**:
+    - Introduction to Linux and Development Tools
+    - C Programming and Data Structures
+    - Python Programming and Web Development
+    - Algorithms and Computational Complexity
+    - Computer Systems and Networks
+    - Databases and Data Management Systems
+    - DevOps and Software Engineering Methodologies
+
+---
+
+## 🏅 Certifications
+
+- [Harvard Online - CS50x](#)
+- [Harvard Online - CS50Python](#)
+- [Frontend Masters - C# and .NET Basics](#)
+- [Frontend Masters - Java Fundamentals](#)
+- [Meta - Django Web Framework](#)
 
 ---
 
@@ -78,5 +131,5 @@
 <p align="center">
   <a href="https://linkedin.com/in/zakaria-mohammadi"><img src="https://img.shields.io/badge/LinkedIn-Zakaria-blue?style=flat&logo=linkedin" /></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-@Zakaria-lightblue?style=flat&logo=twitter" /></a>
-  <a href="mailto:zakaria@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:zakariamohammadi91@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
