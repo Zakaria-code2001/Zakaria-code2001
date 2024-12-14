@@ -1,13 +1,13 @@
 <!-- Header with your name and title -->
 <h1 align="center">👋 Hi, I'm Zakaria Mohammadi!</h1>
-<h3 align="center">A Full Stack Software Engineer specializing in Python, JavaScript, TypeScript, C, C#, and Java</h3>
+<h3 align="center">A Full Stack Software Engineer specializing in Python and JavaScript</h3>
 
 <!-- Badges: Stats, Followers, and other details -->
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/Zakaria-code2001">
+    <img src="https://img.shields.io/github/followers/Zakaria-code2001?label=Follow&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/zakaria-mohammadi">
     <img src="https://img.shields.io/badge/LinkedIn-Zakaria-blue?style=flat&logo=linkedin" />
   </a>
 </p>
@@ -17,12 +17,12 @@
 <!-- About Section -->
 ## 📝 About Me
 
-- 🚀 Full Stack Developer | Backend Specialist  
-- 🎓 Graduate of the ALX Software Engineering Program powered by Holberton  
-- 🔭 I’m currently working on: **BionicTrainer** 
-- 🌱 I’m learning: **AI-driven solutions for web applications**  
-- 💬 Ask me about **Django, Flask, React, and building scalable systems**  
-- 📫 How to reach me: [Email me](mailto:zakaria@example.com)  
+- 🚀 Full Stack Developer | Backend Specialist
+- 🎓 Graduate of the ALX Software Engineering Program powered by Holberton
+- 🔭 I’m currently working on: **BionicTrainer**
+- 🌱 I’m learning: **AI-driven solutions for web applications**
+- 💬 Ask me about **Django, Flask, React, and building scalable systems**
+- 📫 How to reach me: [Email](mailto:zakaria@example.com)
 
 ---
 
@@ -54,7 +54,7 @@
 
 ## 🚀 Featured Project
 
-### 📚 [YouDemy](https://github.com/your-repo-link)
+### 📚 [YouDemy](https://github.com/Zakaria-code2001/YouDemy)
 - **Tech Stack**: Django, React, Vercel, Docker  
 - **Description**: An e-learning platform for uploading and managing educational content with seamless user authentication and cloud deployment.
 
@@ -68,7 +68,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zakaria-code2001&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakaria-code2001&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ## 🌟 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Zakaria-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/zakaria-mohammadi"><img src="https://img.shields.io/badge/LinkedIn-Zakaria-blue?style=flat&logo=linkedin" /></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-@Zakaria-lightblue?style=flat&logo=twitter" /></a>
   <a href="mailto:zakaria@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
