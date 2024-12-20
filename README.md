@@ -19,7 +19,7 @@
 - 🚀 **Full Stack Developer** | **Backend Specialist**
 - 🎓 **Graduate** of the ALX-Holberton Software Engineering Program
 - 📚 Completed virtual internships with **Ford** and **Hewlett Packard**
-- 🔭 I’m currently working on: **BionicTrainer** *(Coming Soon)*
+- 🔭 I’m currently working on: **ProductivityAI** *(Coming Soon)*
 - 🌱 I’m learning: **AI-driven solutions for web applications**
 - 💬 Ask me about **Django, Flask, React, and building scalable systems**
 - 📫 How to reach me: [zakariamohammadi91@gmail.com](mailto:zakariamohammadi91@gmail.com)
