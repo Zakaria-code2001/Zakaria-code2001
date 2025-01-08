@@ -17,7 +17,7 @@
 ## 📝 About Me
 
 - 🚀 **Full Stack Developer** | **Backend Specialist**
-- 🎓 **Graduate** of the ALX-Holberton Software Engineering Program
+- 🎓 **Graduate** of the Holberton Software Engineering Program at ALX
 - 📚 Completed virtual internships with **Ford** and **Hewlett Packard**
 - 🔭 I’m currently working on: **ProductivityAI** *(Coming Soon)*
 - 🌱 I’m learning: **AI-driven solutions for web applications**
